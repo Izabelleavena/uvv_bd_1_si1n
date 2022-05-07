@@ -1,16 +1,15 @@
 # uvv_bd_1_si1n
 Meu primeiro PSET de banco de dados
 
-# Para que serve esse Pset-1?
+# Para que serve esse Pset-2?
 
  É um trabalho que está sendo desenvolvido com o objetivo de que possamos aprender diversos conhecimentos de *banco de dados*, ferramenta de *versionamento de código*, além de aprender na prática como devemos estruturar um bom banco de dados com diversas técnologias.
 
-# O que devemos aprender ao final desse Pset-1?
+# O que devemos aprender ao final desse Pset-2?
 
 * Aprender a como aplicar o Markdown.
-* Como usar uma ferramenta de controle de versionamento, nesse caso o Git.
-* Como usar o GitHub para hospedar nosso repositório
-* Aprender a implementar projetos lógicos em diversos Sistemas de Gerenciamento de Bancos de Dados (SGBD), utilizando os quatro SGBD relacionais mais comuns e importantes hoje em dia: (PostgreSQL,Oracle, MariaBD/MySQL e MS SQL Server).
+* Como montar script de relatório.
+* Uso de algebra linear no relatório.
 * Aprender a ligar com vários problemas que podem surgir caso o projeto Lógico não seja bem estruturado.
 * Aprender sobre Structured Query Language (SQL) em nível básico e intermediário.
 
